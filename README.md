@@ -27,7 +27,7 @@ project/
 ## How to install
 
 ```bash
-$ cd todo_app
+$ cd how_to_django_templates
 $ python -m venv env
 $ source ./env/bin/activate
 $ pip install -r requirements.txt
